@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Task 1</string>
+
+    <string name="tab_rest_api">SK\'s Collection</string>
+    <string name="tab_permissions">Permissions</string>
+    <string name="tab_app_list">App List</string>
+
+    <string name="button_fetch_anime">Fetch Anime</string>
+    <string name="button_camera_permission">Request Camera</string>
+    <string name="button_mic_permission">Request Mic</string>
+    <string name="button_fetch_apps">Fetch Installed Apps</string>
+
+    <string name="permission_granted">%1$s Permission Granted</string>
+    <string name="permission_denied">%1$s Permission Denied</string>
+    <string name="permission_already_granted">%1$s already granted</string>
+    <string name="fetching_anime">Fetching Anime...</string>
+    <string name="error_fetching_anime">Error fetching anime: %1$s</string>
+    <string name="loading_apps">Loading installed apps...</string>
+    <string name="error_loading_apps">Error loading apps: %1$s</string>
+    <string name="press_button_to_load_apps">Press button to load apps</string>
+    <string name="no_apps_found">No non-system apps found (or error occurred).</string>
+    <string name="api_fetch_placeholder">Anime list will appear here after fetching.</string>
+
+    <string name="title_anime_list_header">List of Anime</string>
+    <string name="title_app_list_header">List of Installed Apps</string>
+</resources>
